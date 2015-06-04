@@ -1,2 +1,3 @@
 # licensing.wtf
-licensing wtf website
+
+code for website (licensing.wtf)[http://licensing.wtf]
