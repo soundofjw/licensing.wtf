@@ -8,7 +8,7 @@ Enjoy!
 
 ## bootstrap it / do it yourself (diffiuculty: hard)
 
-* File a request with the publisher via "Notice of Intent" via [section 115](http://www.copyright.gov/licensing/sec_115.html) of the copyright office act. 
+* File a request with the publisher via "Notice of Intent" via [section 115](http://www.copyright.gov/licensing/sec_115.html) of the copyright office act.
   * The original song must have been released as a digital or physical phonorecord in the United States.
   * You only need to file with _one_ publisher via _usps certified mail_.
 * Maintain monthly royalty reporting to the publisher.
@@ -56,5 +56,8 @@ Other alternatives include [Songfile](https://songfile.com).
 
 * Service fee for ongoing licensing includes a % of sales, in addition to the compulsory flat rate _(9.1 cents)_ per copy.
 
+# authors
 
+created by [@soundofjw](https://twitter.com/soundofjw) (github:soundofjw)[https://github.com/soundofjw].
+inspired by [http://copyright.wtf](http://copyright.wtf) [@germanseabass](https://twitter.com/germanseabass) (github:seabass)[https://github.com/seabass].
 
