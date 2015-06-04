@@ -59,5 +59,6 @@ Other alternatives include [Songfile](https://songfile.com).
 # authors
 
 created by [@soundofjw](https://twitter.com/soundofjw) (github:soundofjw)[https://github.com/soundofjw].
+
 inspired by [http://copyright.wtf](http://copyright.wtf) [@germanseabass](https://twitter.com/germanseabass) (github:seabass)[https://github.com/seabass].
 
